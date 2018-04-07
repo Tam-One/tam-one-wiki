@@ -25,6 +25,8 @@ Wil je een specifieke dag snel opzoeken klik van op de kalender om de gewenste d
 
 ![Dagfilter](/uploads/dagfilter.jpg "Dagfilter")
 
+## Het rapport
+
 Vervolgens zie je het complete rapport
 
 ![Rapportage](/uploads/rapportage.jpg "Rapportage")
