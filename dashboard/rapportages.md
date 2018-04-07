@@ -27,6 +27,6 @@ Wil je een specifieke dag snel opzoeken klik van op de kalender om de gewenste d
 
 ## Het rapport
 
-Vervolgens zie je het complete rapport
+Vervolgens zie je het complete rapport gebasseerd op de geselecteerde filters
 
 ![Rapportage](/uploads/rapportage.jpg "Rapportage")
