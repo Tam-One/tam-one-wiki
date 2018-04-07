@@ -13,6 +13,8 @@ Klik op zoeken om het gewenste rapport te genereren
 
 ![Filters](/uploads/filters.jpg "Filters")
 
+## Interval
+
 Je kan eenvoudig de periode selecteren per dag - week of maand bij interval
 
 ![Interval](/uploads/interval.jpg "Interval")
