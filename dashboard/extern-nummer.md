@@ -16,5 +16,6 @@ Wil je een specifieke dag snel opzoeken klik van op de kalender om de gewenste d
 
 ![Dagfilter](/uploads/dagfilter.jpg "Dagfilter")
 
+## Het rapport
 
 ![Externe Nummer Rapportage](/uploads/externe-nummer-rapportage.jpg "Externe Nummer Rapportage")
