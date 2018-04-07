@@ -1,4 +1,4 @@
-<!-- TITLE: Rapportages -->
+![Interval](/uploads/interval.jpg "Interval")<!-- TITLE: Rapportages -->
 <!-- SUBTITLE: Rapportages -->
 
 # Rapportages per afdeling of toestel
