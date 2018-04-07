@@ -2,6 +2,6 @@
 <!-- SUBTITLE: Gebruiker toestellen -->
 
 # Toestellen
-Polycom
-Yealink
-Gigaset
+## Polycom
+## Yealink
+## Gigaset
