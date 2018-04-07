@@ -13,6 +13,14 @@ Klik op zoeken om het gewenste rapport te genereren
 
 ![Filters](/uploads/filters.jpg "Filters")
 
-Je kan eenvoudig de periode selecteren per dag - week of maand
+Je kan eenvoudig de periode selecteren per dag - week of maand bij interval
+
+![Interval](/uploads/interval.jpg "Interval")
+
+Wil je een specifieke dag snel opzoeken klik van op de kalender om de gewenste dag te selecteren
+
+![Dagfilter](/uploads/dagfilter.jpg "Dagfilter")
+
+Vervolgens zie je het complete rapport
 
 ![Rapportage](/uploads/rapportage.jpg "Rapportage")
