@@ -11,4 +11,8 @@ Er zijn een aantal filters die ingesteld kunnen worden:
 
 Klik op zoeken om het gewenste rapport te genereren
 
+![Filters](/uploads/filters.jpg "Filters")
+
+Je kan eenvoudig de periode selecteren per dag - week of maand
+
 ![Rapportage](/uploads/rapportage.jpg "Rapportage")
