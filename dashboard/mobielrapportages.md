@@ -21,6 +21,8 @@ Mocht je tegen de fairuse policy aanlopen dan ontvang je daarvoor een waarschuwi
 
 ![Mobielspraak](/uploads/mobielspraak.jpg "Mobielspraak")
 
+## Mobiel sms verbruik
+
 Als laatste wordt het smsverbruik getoond
 
 ![Mobielsms](/uploads/mobielsms.jpg "Mobielsms")
