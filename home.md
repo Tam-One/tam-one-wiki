@@ -32,4 +32,5 @@ Onder bedrijf staan de verschillende bedrijfunits en actieve inkomende nummers
 
 ## Subtenant
 
-Bij subtenant stelt u alle routeringen, gebruikers, groepen, keuzemenu's, voicemail instellingen etc in
+Bij subtenant stelt u alle routeringen, gebruikers, groepen, keuzemenu's, voicemail instellingen etc in.
+Beging altijd bij externe nummers om de route te volgende wanneer wat gebeurd.
