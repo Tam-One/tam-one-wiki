@@ -4,6 +4,8 @@
 # Voipcentrale portal
 Welkom op de wiki van de voipcentrale van Tam One
 
+Ga naar alle pagina's om onderstaande items te bezoeken.
+
 Hier vindt u uitleg van alle pagina's en instellingen welke verdeeld zijn onder de volgende hoofd items:
 
 ## Dashboard
