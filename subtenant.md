@@ -9,3 +9,5 @@ Elke vestiging zal apart gefactureerd worden - zet de juiste nummers en toestel 
 Heeft u 1 bedrijf dan zal deze altijd onderdefault vallen
 
 ![Subtenants](/uploads/subtenants.jpg "Subtenants")
+
+# Externe nummers
